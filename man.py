@@ -1,1 +1,7 @@
-print("hello")
+print ("hello, World")
+print ("Information and  Network Engineering")
+print ("hello Anirach you will be success")
+print ("I'm hungry")
+print ('He ask me"Who got the book?"')
+print ("I'm good and \"I will do my best\"")
+print ("/\\")
